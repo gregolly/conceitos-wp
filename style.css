@@ -1,0 +1,28 @@
+/*
+Theme Name: Tema Conceito
+Theme URI: 
+Author: Gregolly
+Author URI: 
+Description: 
+Version: 1.0
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+
+*/
+
+body{
+  background-color: #00ff00;
+}
+.main_menu{
+  background-color: red;
+}
+
+.main_menu ul,
+.main_menu li{
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+.main_menu li{
+  display: inline-block;
+}
